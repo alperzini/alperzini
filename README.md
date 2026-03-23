@@ -1,12 +1,11 @@
 ## Hello 👋
 
-I'm Alper — a QA & Game Development professional with 3+ years of experience working
+I'm Alper, QA & Game Development professional with 3+ years of experience working
 with technical teams in agile environments, gathering requirements, and designing
 effective solutions.
 
-My journey from architecture to game development has shaped a diverse skill set that
-blends creativity, analytical thinking, and technical proficiency. I've expanded my
-expertise into modern technologies including:
+From architectural blueprints to game worlds to full-stack applications, my journey has always been driven by a passion for building things that solve real problems. 
+I've expanded my expertise into modern technologies including:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
