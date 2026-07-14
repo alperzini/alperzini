@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Alper, QA & Game Development professional with 3+ years of experience working
+I'm Alper, QA & Game Development professional with 4+ years of experience working
 with technical teams in agile environments, gathering requirements, and designing
 effective solutions.
 
@@ -22,7 +22,7 @@ built to last.
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alperzini.com-blue?style=flat&logo=googlechrome&logoColor=white)](https://alperzini.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alper%20Zini-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alper-zini/)
